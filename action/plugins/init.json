@@ -1,0 +1,7 @@
+{
+    "type":"action",
+    "action":{
+        "action_type":"plugin_init",
+        "plugin_id":"test123"
+    }
+}

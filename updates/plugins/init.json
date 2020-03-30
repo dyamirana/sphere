@@ -1,0 +1,12 @@
+{
+    "type":"updates",
+    "updates":[{
+        "update_type":"plugins_init",
+        "plugins":[
+            {"name":"Тестовый плагин",
+            "description":"Делаю тестовые штуки мяу",
+            "id":"test123",
+            "author":"Кот захар"}
+        ]
+    }]
+}

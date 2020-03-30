@@ -1,0 +1,15 @@
+{
+    "type": "updates",
+    "updates": [
+        {
+            "update_type": "create_widget",
+            "widget_type": "chart",
+            "widget_id": "chart_123",
+            "chart": {
+                "type": "None",
+                "options": {},
+                "data": "None"
+            }
+        }
+    ]
+}

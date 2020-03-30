@@ -1,0 +1,10 @@
+{
+  "type": "connect",
+  "client": {
+    "name": "admin",
+    "client_type": "plugin_page",
+    "groups": [
+      "plugins"
+    ]
+  }
+}
