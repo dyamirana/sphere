@@ -2,7 +2,7 @@
     "type": "updates",
     "updates": [
         {
-            "update_type": "create_widget",
+            "update_type": "update_widget",
             "widget_type": "chart",
             "widget_id": "chart_123",
             "widget_style": "top:50%;left:50%;height:50%;width:100%;position:absolute;",

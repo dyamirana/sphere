@@ -1,0 +1,8 @@
+{
+    "type":"action",
+    "action":{
+        "action_type":"plugin_command",
+        "plugin_id":"test123",
+        "command":"test test"
+    }
+}

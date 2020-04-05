@@ -1,0 +1,10 @@
+{
+    "type": "updates",
+    "updates": [
+        {
+            "update_type": "plugin_command_answer",
+            "plugin_id":"test123",
+            "command":"всё ок комманда выполнена"
+        }
+    ]
+}
